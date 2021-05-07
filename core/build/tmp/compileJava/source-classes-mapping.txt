@@ -1,0 +1,4 @@
+com/github/annasajkh/Kaleidoscope.java
+ com.github.annasajkh.Kaleidoscope
+com/github/annasajkh/Brush.java
+ com.github.annasajkh.Brush
